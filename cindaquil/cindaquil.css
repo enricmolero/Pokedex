@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(228, 219, 189);
+}
+h1 {
+    text-align: center; /* Centra el texto del título */
+    color: black; /* Cambia el color del texto si es necesario */
+    font-family: 'Press Start 2P', cursive;/* Cambia la fuente del texto */
+}
+h4 {
+    color: black; /* Cambia el color del texto si es necesario */
+    font-family: 'Press Start 2P', cursive;/* Cambia la fuente del texto */
+}
+h3 {
+    color: black; /* Cambia el color del texto si es necesario */
+    font-family: 'Press Start 2P', cursive;/* Cambia la fuente del texto */
+}
