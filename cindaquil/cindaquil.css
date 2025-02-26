@@ -18,3 +18,9 @@ h3 {
     background-color: red; /* Cambia el color del texto si es necesario */
     font-family: 'Press Start 2P', cursive;/* Cambia la fuente del texto */
 }
+a {
+    text-align: center; /* Centra el texto del título */
+    color: white; /* Cambia el color del texto si es necesario */
+    font-family: 'Press Start 2P', cursive;/* Cambia la fuente del texto */
+    background-color: red;/*Cambia el color del fondo del texto*/
+}
