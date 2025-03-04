@@ -25,7 +25,8 @@ a {
     background-color: red;/*Cambia el color del fondo del texto*/
 }
 img {
-    width: 50%; /* Ajusta el ancho de la imagen al 50% del contenedor */
     height: auto; /* Mantiene la proporción de la imagen */
     display: block; /* Hace que la imagen sea un bloque */
+    width=50px /* Ajusta la imagen */
+    height=50px /* Ajusta la imagen */
 }
