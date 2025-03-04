@@ -27,6 +27,6 @@ a {
 img {
     height: auto; /* Mantiene la proporción de la imagen */
     display: block; /* Hace que la imagen sea un bloque */
-    width=50px/* Ajusta la imagen */
-    height=50px /* Ajusta la imagen */
+    width: 50px; /* Ajusta la imagen */
+    height: 50px; /* Ajusta la imagen */
 }
