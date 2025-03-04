@@ -28,7 +28,4 @@ img {
     width: 200px; /* Ajusta el ancho de la imagen al 50% del contenedor */
     height: auto; /* Mantiene la proporción de la imagen */
     display: block; /* Hace que la imagen sea un bloque */
-    margin: 0 auto; /* Centra la imagen horizontalmente */
-    top: 10px;
-    left: 10px;
 }
